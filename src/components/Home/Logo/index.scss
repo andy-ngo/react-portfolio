@@ -26,7 +26,7 @@
         margin: auto;
         width: 100%;
         opacity: 0;
-        transform: rotatez(30deg);
+        transform: rotatez(30deg) !important;
         z-index: 1;
     }
 }
